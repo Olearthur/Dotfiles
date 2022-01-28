@@ -1,0 +1,5 @@
+start=34.565750
+pause=yes
+volume=60.000000
+fullscreen=yes
+vf=vapoursynth=file=%47%/home/ole/.local/share/SVP4/scripts/ec6bf0f3.py:buffered-frames=4:concurrent-frames=9,vapoursynth=file=%47%/home/ole/.local/share/SVP4/scripts/ec6bf0f3.py:buffered-frames=4:concurrent-frames=9,vapoursynth=file=%47%/home/ole/.local/share/SVP4/scripts/ec6bf0f3.py:buffered-frames=4:concurrent-frames=9
